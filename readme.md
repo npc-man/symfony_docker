@@ -24,7 +24,7 @@ docker exec -it yourprojectname-rediscache-1 redis-cli
 
 # войти в Mysql
 ```bash
-mysql -uroot -p --port=3308
+mysql -uroot -p --port=3306
 ```
 
 ### Работа с Redis
